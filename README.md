@@ -11,7 +11,7 @@ and visualized it via R2D2 platform.
 
 ###Function Description###
 
-8puzzle_connect.py -- connect to the 8 robots (Attentation: most computer could only connect to 5-6 robots simultaneously, you need to disconnect and reconnect to new robots in some cases.)
+puzzle_connect.py -- connect to the 8 robots (Attentation: most computer could only connect to 5-6 robots simultaneously, you need to disconnect and reconnect to new robots in some cases.)
 
 puzzleAstar.py -- generate the path to solve the problem, the output includes the # of robot and its movements in order.
 
